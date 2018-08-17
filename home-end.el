@@ -9,7 +9,7 @@
 ;; Package-Version:  1.0
 ;; Package-requires: ((emacs "24.3") (keypress-multi-event "1.0"))
 ;; Keywords:         abbrev, convenience, wp, keyboard
-;; URL:              https://www.github.com/Boruch_Baum/MELPA_misc_contrib
+;; URL:              https://www.github.com/Boruch_Baum/emacs-home-end
 
 ;; This is free software: you can redistribute it and/or modify it under
 ;; the terms of the GNU General Public License as published by the Free
