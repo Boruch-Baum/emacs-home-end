@@ -24,6 +24,24 @@ Copyright 2002-2011 Toby Speight, both under GPL3.
 
   + [[https://github.com/Boruch-Baum/emacs-keypress-multi-event][keypress-multi-event]]
 
+** Installation
+
+*** Option 1: From within emacs, via MELPA
+
+*** Option 2: From your distribution's package manager
+
++ [[https://debian.org][Debian]] has expressed an [[https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759721#13][interest]] in providing a debian package for this repository, along with that of my related `[[https://github.com/Boruch-Baum/emacs-keypress-multi-event][keypress-home-end]]` repo. Stay tuned.
+
++ If you know of other distributions that make a similar decision, please let me know.
+
+*** Option 3: Manual install
+
++ Download the `.el` file to somewhere on your emacs `load-path`.
+
++ Download the `.el` file of the dependency [[https://github.com/Boruch-Baum/emacs-keypress-multi-event][keypress-multi-event]] to somewhere on your emacs `load-path`.
+
++ `load`, `require`, `use-package`, or evaluate the files' contents, as you desire.
+
 ** References
 
   [1] https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759721#13
