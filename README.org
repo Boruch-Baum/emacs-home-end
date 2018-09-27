@@ -1,5 +1,7 @@
 * home-end
 
+| =home-end=       | [[http://melpa.org/#/flyspell-correct][file:http://melpa.org/packages/home-end-badge.svg]]       | [[https://stable.melpa.org/#/flyspell-correct][file:https://stable.melpa.org/packages/home-end-badge.svg]]
+
 This package for emacs makes HOME/END keys smartly cycle to the
 beginning/end of a line, the beginning/end of the window, the
 beginning/end of the buffer, and back to POINT. With a prefix
