@@ -47,3 +47,35 @@ Copyright 2002-2011 Toby Speight, both under GPL3.
 ** References
 
   [1] https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=759721#13
+  
+** Some other Emacs software by this author
+
++ Diredc [[https://melpa.org/#/diredc][https://melpa.org/packages/diredc-badge.svg]] [[https://stable.melpa.org/#/diredc][https://stable.melpa.org/packages/diredc-badge.svg]]
+  + Large collection of interoperable dired extensions
+  + https://github.com/Boruch-Baum/emacs-diredc
+
++ Emacs-w3m
+  + Extensions to the classic web browser (fork)
+    + Advanced downloader (bulk, regex, queue management, resume aborted)
+    + Scrub history
+    + More ...
+  + https://github.com/Boruch-Baum/emacs-w3m
+
++ Crossword [[https://melpa.org/#/crossword][https://melpa.org/packages/crossword-badge.svg]]
+  + Download and play crossword puzzles, in Emacs!
+  + https://github.com/Boruch-Baum/emacs-crossword
+
++ Key-assist
+  [[https://melpa.org/#/key-assist][https://melpa.org/packages/key-assist-badge.svg]]
+  [[https://stable.melpa.org/#/key-assist][https://stable.melpa.org/packages/key-assist-badge.svg]]
+  + Simple keybinding cheatsheet and launcher
+  + https://github.com/Boruch-Baum/emacs-key-assist
+
++ Keypress-multi-event
+  [[https://melpa.org/#/keypress-multi-event][https://melpa.org/packages/keypress-multi-event-badge.svg]]
+  [[https://stable.melpa.org/#/keypress-multi-event][https://stable.melpa.org/packages/keypress-multi-event-badge.svg]]
+  + perform different actions when repeating a key
+  + https://github.com/Boruch-Baum/emacs-keypress-multi-event
+
++ Post-mode  - Updates to the abandoned email editing package (fork)
+  + https://github.com/Boruch-Baum/post-mode
